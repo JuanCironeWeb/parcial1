@@ -14,7 +14,6 @@ ruta.get('/', (req, res) => {
     .catch(err => { 
         res.status(400).json({err})
     })
-    // res.send("Hola")
 })
 ruta.get('/id/:id', (req, res) => { 
     let skins = getSkinsByID(req.params.id) ; 
@@ -97,8 +96,8 @@ ruta.get('/sort', (req, res) => {
         res.status(400).json({err})
     })
 })
-ruta.get('/paged/:limit', (req, res) => { 
-    let skins = getSkinsPaged(req.params.limit) ; 
+ruta.get('/paged/:limit/:skip', (req, res) => { 
+    let skins = getSkinsPaged(req.params.limit, req.params.skip) ; 
     skins
     .then(skin => { 
         res.json(skin)

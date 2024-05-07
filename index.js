@@ -14,6 +14,7 @@ mongoose
 
 const app = express() 
 app.use(express.json())
+app.use(express.static("views"))
 app.use(express.urlencoded({extended: true}))
 app.use('/Skins', skinsRoutes)
 app.use('/Games', gamesRoutes)

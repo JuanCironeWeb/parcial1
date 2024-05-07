@@ -49,8 +49,8 @@ async function getSkinsSort(){
     let result = await Skin.find().sort({"name": 1})
     return result
 }
-async function getSkinsPaged(limit){ 
-    let result = await Skin.find().limit(limit)
+async function getSkinsPaged(limit, skip){ 
+    let result = await Skin.find().limit(limit).skip(skip)
     return result
 }
 export {getSkins, createSkin, updateSkins, getSkinsByID, deleteSkins, getSkinsType, getSkinsPrice, getSkinsName, getSkinsSort, getSkinsPaged};
