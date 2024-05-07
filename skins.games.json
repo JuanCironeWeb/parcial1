@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "663692bc2d92c640aebf0b52"
+  },
+  "name": "Counter-Strike: Global Offensive",
+  "platform": "Pc",
+  "launched": "08-2012",
+  "developers": "Valve Corporation"
+},
+{
+  "_id": {
+    "$oid": "663692f12d92c640aebf0b53"
+  },
+  "name": "Counter-Strike 2",
+  "platform": "Pc",
+  "launched": "09-2023",
+  "developers": "Valve Corporation"
+},
+{
+  "_id": {
+    "$oid": "6636933b2d92c640aebf0b54"
+  },
+  "name": "Valorant",
+  "platform": "Pc",
+  "launched": "6-2020",
+  "developers": "Riot Games"
+},
+{
+  "_id": {
+    "$oid": "6637d8cbef5c3cfcd26cfc51"
+  },
+  "name": "Call Of Duty: Black Ops 3",
+  "platform": "Playstation 4",
+  "launched": "\"06-2015\"",
+  "developers": "Treyarch"
+}]

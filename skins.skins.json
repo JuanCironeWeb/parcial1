@@ -1,0 +1,162 @@
+[{
+  "_id": {
+    "$oid": "66368fc82d92c640aebf0b49"
+  },
+  "name": "Ak:47 - Neon Revolution",
+  "type": "Rifle",
+  "price": 270,
+  "condition": "Factory New"
+},
+{
+  "_id": {
+    "$oid": "663690102d92c640aebf0b4a"
+  },
+  "name": "M4A1S - Blue Phosphor",
+  "type": "Rifle",
+  "price": 190,
+  "condition": "Minimal Wear"
+},
+{
+  "_id": {
+    "$oid": "663690382d92c640aebf0b4b"
+  },
+  "name": "M4A1S - Chantico's Fire",
+  "type": "Rifle",
+  "price": 300,
+  "condition": "Factory New"
+},
+{
+  "_id": {
+    "$oid": "663690922d92c640aebf0b4c"
+  },
+  "name": "M9 Bayonet - Autotronic",
+  "type": "Knife",
+  "price": 450,
+  "condition": "Minimal Wear"
+},
+{
+  "_id": {
+    "$oid": "663690c22d92c640aebf0b4d"
+  },
+  "name": "M9 Bayonet - Crimson Web",
+  "type": "Knife",
+  "price": 300,
+  "condition": "Factory New"
+},
+{
+  "_id": {
+    "$oid": "663690d52d92c640aebf0b4e"
+  },
+  "name": "M9 Bayonet - Fade",
+  "type": "Knife",
+  "price": 500,
+  "condition": "Factory New"
+},
+{
+  "_id": {
+    "$oid": "663691562d92c640aebf0b4f"
+  },
+  "name": "Talon Knife - Doppler",
+  "type": "Knife",
+  "price": 600,
+  "condition": "Field Tested"
+},
+{
+  "_id": {
+    "$oid": "663691792d92c640aebf0b50"
+  },
+  "name": "Talon Knife - Marble Fade",
+  "type": "Knife",
+  "price": 700,
+  "condition": "Well Worn"
+},
+{
+  "_id": {
+    "$oid": "663691922d92c640aebf0b51"
+  },
+  "name": "Talon Knife - Tiger Tooth",
+  "type": "Knife",
+  "price": 800,
+  "condition": "Well Worn"
+},
+{
+  "_id": {
+    "$oid": "663694f32d92c640aebf0b55"
+  },
+  "name": "Vandal - ChronoVoid",
+  "type": "Rifle",
+  "price": 200,
+  "condition": "Factory New"
+},
+{
+  "_id": {
+    "$oid": "663695332d92c640aebf0b56"
+  },
+  "name": "Vandal - Elderflame",
+  "type": "Rifle",
+  "price": 250,
+  "condition": "Minimal Wear"
+},
+{
+  "_id": {
+    "$oid": "663695512d92c640aebf0b57"
+  },
+  "name": "Vandal - Glitchpop",
+  "type": "Rifle",
+  "price": 350,
+  "condition": "Field Tested"
+},
+{
+  "_id": {
+    "$oid": "6636960f2d92c640aebf0b58"
+  },
+  "name": "Sheriff - Sentinels Of Light",
+  "type": "Pistol",
+  "price": 150,
+  "condition": "Field Tested"
+},
+{
+  "_id": {
+    "$oid": "663696252d92c640aebf0b59"
+  },
+  "name": "Sheriff - Singularity",
+  "type": "Pistol",
+  "price": 50,
+  "condition": "Factory New"
+},
+{
+  "_id": {
+    "$oid": "6637d6bbef5c3cfcd26cfc4d"
+  },
+  "name": "Kn:44 - Swindler",
+  "type": "Rifle",
+  "price": 250,
+  "raritie": "Legendary"
+},
+{
+  "_id": {
+    "$oid": "6637d72fef5c3cfcd26cfc4e"
+  },
+  "name": "Kn:44 - Monochrome",
+  "type": "Rifle",
+  "price": 285,
+  "raritie": "Epic"
+},
+{
+  "_id": {
+    "$oid": "6637d7ceef5c3cfcd26cfc4f"
+  },
+  "name": "Argus - Hallucination",
+  "type": "Shotgun",
+  "price": 90,
+  "raritie": "Common"
+},
+{
+  "_id": {
+    "$oid": "6637d85def5c3cfcd26cfc50"
+  },
+  "name": "Rk5 - Royal",
+  "type": "Pistol",
+  "price": 110,
+  "raritie": "Rare"
+}]
